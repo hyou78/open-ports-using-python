@@ -1,4 +1,4 @@
-# open-ports-using-python
+# openportsadnvul
 #this tool is used to find the open ports of the network using python 
 import argparse
 import nmap
